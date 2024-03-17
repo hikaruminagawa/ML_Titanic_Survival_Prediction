@@ -15,4 +15,4 @@ To use this predictive model, run the Jupyter notebook `prediction.ipynb` which 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
 
 ## License
-This project is open-sourced under the MIT license.
+This project is open-sourced under the Kaggle license.
